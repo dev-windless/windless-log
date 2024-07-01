@@ -1,4 +1,4 @@
-const CONFIG = {
+nconst CONFIG = {
   // profile setting (required)
   profile: {
     name: "Ersin",
@@ -12,15 +12,15 @@ const CONFIG = {
   },
     projects: [
     {
-      name: `morethan-log`,
-      href: "https://github.com/morethanmin/morethan-log",
+      name: "windless-log",
+      href: "https://github.com/dev-windless/windless-log",
     },
   ],
   
   // blog setting (required)
   blog: {
-    title: "ersin-log",
-    description: "welcome to ersin-log!",
+    title: "windless-log",
+    description: "welcome to windless-log!",
     scheme: "dark", // 'light' | 'dark' | 'system'
   },
 
